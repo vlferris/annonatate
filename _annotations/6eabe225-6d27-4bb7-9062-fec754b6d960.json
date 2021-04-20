@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0004"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "African American Oral History Project", "purpose": "describing", "creator": {"id": "vlferris", "name": "vlferris"}, "created": "2021-04-20T18:23:50.185Z", "modified": "2021-04-20T18:24:08.145Z"}, {"type": "TextualBody", "value": "oral history", "purpose": "tagging", "creator": {"id": "vlferris", "name": "vlferris"}, "created": "2021-04-20T18:24:23.069Z", "modified": "2021-04-20T18:24:23.893Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0004", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:391.70623779296875,3803.990478515625,2065.7319946289062,1621.982177734375"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/6eabe225-6d27-4bb7-9062-fec754b6d960.json"}
