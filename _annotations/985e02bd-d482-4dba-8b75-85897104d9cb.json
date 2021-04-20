@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "This is the roof.", "purpose": "commenting", "creator": {"id": "vlferris", "name": "vlferris"}, "created": "2021-04-20T18:27:47.149Z", "modified": "2021-04-20T18:27:48.806Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017", "selector": {"type": "SvgSelector", "value": "<svg><polygon points=\"1484.4970703125,958.36865234375 2483.830078125,636.2695922851562 3012.40283203125,632.1400756835938 3970.441162109375,979.0159912109375 2810.05859375,962.4981079101562 2722.51416015625,957.5428466796875 1751.2613525390625,957.5428466796875\"></polygon></svg>"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/985e02bd-d482-4dba-8b75-85897104d9cb.json"}
